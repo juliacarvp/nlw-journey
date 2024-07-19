@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\Journey\\Journey\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Journey\\Journey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\pc\\downloads\\journey\\journey\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\pc\\documents\\journey\\journey\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\pc\\downloads\\journey\\journey\\src\\journey.application\\usecases\\activities\\complete\\completeactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\pc\\documents\\journey\\journey\\src\\journey.application\\usecases\\activities\\complete\\completeactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\activities\\complete\\completeactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,24 +64,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CompleteActivityForTripUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Journey\\Journey\\src\\Journey.Application\\UseCases\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Journey\\Journey\\src\\Journey.Application\\UseCases\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
               "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\Journey\\Journey\\src\\Journey.Application\\UseCases\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Journey\\Journey\\src\\Journey.Application\\UseCases\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
               "RelativeToolTip": "src\\Journey.Application\\UseCases\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T16:33:48.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T16:33:48.356Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TripsController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Journey\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Journey\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
               "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\Journey\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Journey\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
               "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAYwG8AAAAMAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAYwG8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T04:06:31.669Z",
               "EditorCaption": ""
